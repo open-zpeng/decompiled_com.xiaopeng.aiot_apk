@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn01" android:layout_margin="10dp" android:text="蓝牙" style="@style/XButton.Ghost.Large.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn02" android:layout_margin="10dp" android:text="声音" style="@style/XButton.Ghost.Large.Positive"/>
+    </LinearLayout>
+</LinearLayout>

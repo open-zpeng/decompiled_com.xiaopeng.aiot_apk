@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.xiaopeng.xui.widget.XButton android:layout_gravity="top|left" android:id="@+id/btnFinish" android:layout_margin="10dp" android:text="finish" style="@style/XButton.Ghost.Mid.Positive"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn01" android:layout_margin="10dp" android:text="香氛" style="@style/XButton.Real.Mid.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn011" android:layout_margin="10dp" android:text="香氛2" style="@style/XButton.Real.Mid.Positive"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn02" android:layout_margin="10dp" android:text="冰箱" style="@style/XButton.Real.Mid.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn021" android:layout_margin="10dp" android:text="冰箱2" style="@style/XButton.Real.Mid.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn022" android:layout_margin="10dp" android:text="蓝牙设备" style="@style/XButton.Real.Mid.Positive"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn030" android:layout_margin="10dp" android:text="儿童座椅" style="@style/XButton.Real.Mid.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn031" android:layout_margin="10dp" android:text="蓝牙设备" style="@style/XButton.Real.Mid.Positive"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn040" android:layout_margin="10dp" android:text="手表" style="@style/XButton.Real.Mid.Positive"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn050" android:layout_margin="10dp" android:text="绑定床垫" style="@style/XButton.Real.Mid.Positive"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn051" android:layout_margin="10dp" android:text="床垫页面" style="@style/XButton.Real.Mid.Positive"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn03" android:layout_margin="10dp" android:text="sample" style="@style/XButton.Ghost.Large.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn04" android:layout_margin="10dp" android:text="co超标提醒" style="@style/XButton.Ghost.Large.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn06" android:layout_margin="10dp" android:text="冰箱门" style="@style/XButton.Ghost.Large.Positive"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn10" android:layout_margin="10dp" android:text="电源get" style="@style/XButton.Ghost.Large.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn11" android:layout_margin="10dp" android:text="电源set" style="@style/XButton.Ghost.Large.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn12" android:layout_margin="10dp" android:text="时间get" style="@style/XButton.Ghost.Large.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn13" android:layout_margin="10dp" android:text="弹窗" style="@style/XButton.Ghost.Large.Positive"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn50" android:layout_margin="10dp" android:text="气味弹窗1" style="@style/XButton.Ghost.Large.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn51" android:layout_margin="10dp" android:text="大师弹窗1" style="@style/XButton.Ghost.Large.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/btn52" android:layout_margin="10dp" android:text="大师弹窗2" style="@style/XButton.Ghost.Large.Positive"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn14" android:layout_margin="10dp" android:text="靛蓝音效" style="@style/XButton.Ghost.Large.Positive"/>
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn15" android:layout_margin="10dp" android:text="昆仑音效" style="@style/XButton.Ghost.Large.Positive"/>
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn16" android:layout_margin="10dp" android:text="绮丽音效" style="@style/XButton.Ghost.Large.Positive"/>
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn17" android:layout_margin="10dp" android:text="千星音效" style="@style/XButton.Ghost.Large.Positive"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn18" android:layout_margin="10dp" android:text="时光音效" style="@style/XButton.Ghost.Large.Positive"/>
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn19" android:layout_margin="10dp" android:text="星际音效" style="@style/XButton.Ghost.Large.Positive"/>
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn20" android:layout_margin="10dp" android:text="星云音效" style="@style/XButton.Ghost.Large.Positive"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn21" android:layout_width="wrap_content" android:layout_margin="10dp" android:text="冰箱开" style="@style/XButton.Ghost.Large.Positive"/>
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn22" android:layout_width="wrap_content" android:layout_margin="10dp" android:text="冰箱关" style="@style/XButton.Ghost.Large.Positive"/>
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn23" android:layout_width="wrap_content" android:layout_marginTop="20dp" android:layout_marginBottom="20dp" android:text="6度" style="@style/XButton.Ghost.Large.Positive"/>
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn24" android:layout_width="wrap_content" android:layout_marginTop="20dp" android:layout_marginBottom="20dp" android:text="0度" style="@style/XButton.Ghost.Large.Positive"/>
+            <com.xiaopeng.xui.widget.XButton android:id="@+id/btn25" android:layout_width="wrap_content" android:layout_marginTop="20dp" android:layout_marginBottom="20dp" android:text="-6度" style="@style/XButton.Ghost.Large.Positive"/>
+        </LinearLayout>
+        <com.xiaopeng.xui.widget.XSwitch android:id="@+id/sw_sound" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="SoundPool/MediaPlayer"/>
+    </LinearLayout>
+</LinearLayout>

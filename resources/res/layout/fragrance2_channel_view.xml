@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/content" android:duplicateParentState="true" style="@style/Fragrance2.Detail.Channel">
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/fragrance_channel_bg" android:duplicateParentState="true" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toTopOf="0" style="@style/Fragrance2.Detail.Channel.Bg"/>
+    <com.xiaopeng.xui.widget.XTextView android:id="@+id/fragrance_channel_type_tips" android:duplicateParentState="true" android:layout_marginTop="26dp" android:layout_marginStart="28dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toTopOf="0" style="@style/Fragrance2.Detail.Channel.Type.Tips"/>
+    <com.xiaopeng.xui.widget.XTextView android:id="@+id/fragrance_type_title" android:duplicateParentState="true" android:layout_marginTop="66dp" android:text="@string/fragrance_not_install" android:layout_marginStart="26dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toTopOf="0" style="@style/Fragrance2.Detail.Channel.Type"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/fragrance_type_open" android:duplicateParentState="true" android:layout_marginBottom="30dp" android:layout_marginStart="26dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintLeft_toLeftOf="0" style="@style/Fragrance2.Detail.Channel.Open"/>
+</merge>

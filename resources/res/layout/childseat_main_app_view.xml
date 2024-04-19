@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/content">
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/childseat_bg" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/childseat_bg" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0" app:vuiMode="DISABLED"/>
+    <com.xiaopeng.xui.widget.XTextView android:layout_marginBottom="56dp" style="@style/ChildSeat.Support"/>
+    <include android:id="@+id/childseat_unbind" android:visibility="invisible" layout="@layout/childseat_unbind_view"/>
+    <include android:id="@+id/childseat_connect" android:visibility="invisible" layout="@layout/childseat_connect_view"/>
+    <include android:id="@+id/childseat_bleclose" android:visibility="invisible" layout="@layout/childseat_bleclose_view"/>
+    <include android:id="@+id/childseat_connecting" android:visibility="invisible" layout="@layout/childseat_connecting_view"/>
+</merge>

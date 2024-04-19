@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/content" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/pic" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0" style="@style/Fragrance2.GreatMaster.Pic"/>
+    <com.xiaopeng.xui.widget.XTextView android:id="@+id/fragrance_master_name" android:layout_marginTop="57dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/pic" style="@style/Fragrance2.GreatMaster.Name"/>
+    <com.xiaopeng.xui.widget.XTextView android:id="@+id/fragrance_master_post" android:layout_marginTop="111dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/pic" style="@style/Fragrance2.GreatMaster.NameDes"/>
+    <com.xiaopeng.xui.widget.XImageView android:layout_marginTop="209dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/pic" style="@style/Fragrance2.GreatMaster.Figure"/>
+    <com.xiaopeng.xui.widget.XTextView android:id="@+id/fragrance_master_des" android:layout_marginTop="278dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/pic" style="@style/Fragrance2.GreatMaster.Des"/>
+</com.xiaopeng.xui.widget.XConstraintLayout>

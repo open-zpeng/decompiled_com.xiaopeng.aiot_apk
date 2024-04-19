@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XListSingle xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/list_switch" app:list_single_left="@layout/x_list_action_switch" app:list_single_left_right_touch_full="left" app:list_single_right="@layout/ble_header_right" app:list_single_text="@string/blue_switch" style="@style/XList.Singe"/>

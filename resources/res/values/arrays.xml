@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fragrance2_introduce_base">
+        <item>檀⾹⽊、琥珀</item>
+        <item>⾹根草、麝⾹</item>
+        <item>雪松、麝⾹、琥珀</item>
+        <item>⼴藿⾹</item>
+        <item>琥珀、雪松⽊、檀⾹⽊、⾹根草</item>
+        <item>麝⾹</item>
+        <item>麝⾹</item>
+        <item>零陵香豆、檀香木、琥珀</item>
+        <item>广藿香、雪松、香茅草、安息香脂</item>
+        <item>劳丹脂、檀香木、广藿香、香茅草、焚香、雪松、麝香</item>
+        <item>龙涎香</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="fragrance2_introduce_head">
+        <item>红橘、橙花、常春藤、茶叶、苦橙</item>
+        <item>玫瑰</item>
+        <item>万寿菊、橙⼦、柠檬草、柠檬、酸橙</item>
+        <item>柑橘、⽟兰</item>
+        <item>胡椒、⾖蔻</item>
+        <item>苹果、⽩桃花</item>
+        <item>橘⼦、茶</item>
+        <item>血橙、苦橙</item>
+        <item>橙子、葡萄柚</item>
+        <item>柠檬、薄荷、粉红胡椒、葡萄柚</item>
+        <item>橘子、柠檬</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="fragrance2_introduce_heart">
+        <item>牡丹、洋⽢菊、橘⼦、罗湖</item>
+        <item>雪松</item>
+        <item>⾁桂、茉莉花、⽔果</item>
+        <item>栀⼦花</item>
+        <item>沉⾹、零陵⾹⾖、⾹草</item>
+        <item>茉莉花、雪松</item>
+        <item>茉莉、茶、⽢菊、蔷薇、⾦银花、橙花</item>
+        <item>茉莉、老鹳草</item>
+        <item>胡椒、天竺葵</item>
+        <item>生姜、龙涎酮、肉豆蔻、茉莉</item>
+        <item>茶叶</item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="fragrance2_types_super">
+        <item />
+        <item />
+        <item />
+        <item>&lt;font color=#FFFFFF&gt;由芬美意调香大师&lt;/font&gt; &lt;font color=#FFA24F&gt; Clement Gavarry&lt;/font&gt; &lt;font color=#FFFFFF &gt;调制 &gt;&lt;/font&gt; </item>
+        <item>&lt;font color=#FFFFFF&gt;由芬美意⾸席调⾹师&lt;/font&gt; &lt;font color=#FFA24F&gt; Hamid Merati Kashani&lt;/font&gt; &lt;font color=#FFFFFF&gt;调制 &gt;&lt;/font&gt; </item>
+        <item>&lt;font color=#FFFFFF&gt;由芬美意调香师&lt;/font&gt; &lt;font color=#FFA24F&gt; Florian Gallo&lt;/font&gt; &lt;font color=#FFFFFF&gt;调制 &gt;&lt;/font&gt; </item>
+        <item>&lt;font color=#FFFFFF&gt;由芬美意调香师&lt;/font&gt; &lt;font color=#FFA24F&gt; Florian Gallo&lt;/font&gt; &lt;font color=#FFFFFF&gt;调制 &gt;&lt;/font&gt; </item>
+        <item>&lt;font color=#FFFFFF&gt;由奇华顿调香师&lt;/font&gt; &lt;font color=#FFA24F&gt; Barbara Zoebelein&lt;/font&gt; &lt;font color=#FFFFFF&gt;调制 &gt;&lt;/font&gt; </item>
+        <item>&lt;font color=#FFFFFF&gt;由奇华顿调香师&lt;/font&gt; &lt;font color=#FFA24F&gt; Barbara Zoebelein&lt;/font&gt; &lt;font color=#FFFFFF&gt;调制 &gt;&lt;/font&gt; </item>
+        <item>&lt;font color=#2D3439&gt;由奇华顿调香师&lt;/font&gt; &lt;font color=#FFA24F&gt; Barbara Zoebelein&lt;/font&gt; &lt;font color=#2D3439&gt;调制 &gt;&lt;/font&gt; </item>
+        <item>&lt;font color=#2D3439&gt;由奇华顿调香师&lt;/font&gt; &lt;font color=#FFA24F&gt; Barbara Zoebelein&lt;/font&gt; &lt;font color=#2D3439&gt;调制 &gt;&lt;/font&gt; </item>
+        <item />
+        <item />
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="fragrance_density">
+        <item>低浓度</item>
+        <item>高浓度</item>
+    </array>
+    <array name="fragrance_types">
+        <item>绮丽幻境</item>
+        <item>昆仑静谧</item>
+        <item>靛蓝海韵</item>
+        <item>星云漫步</item>
+        <item>千星之城</item>
+        <item>星际潮汐</item>
+        <item>时空旅客</item>
+        <item>琥珀光橘</item>
+        <item>香杉影木</item>
+        <item>自由之境</item>
+        <item>白色清幽</item>
+        <item>小鹏香氛</item>
+        <item>小鹏香氛</item>
+        <item>小鹏香氛</item>
+        <item>小鹏香氛</item>
+        <item>小鹏香氛</item>
+    </array>
+    <array name="fragrance_types_en">
+        <item>Fantasyland</item>
+        <item>Serenity</item>
+        <item>Rhythm</item>
+        <item>Galaxy</item>
+        <item>Horizon</item>
+        <item>Cosmos</item>
+        <item>Universe</item>
+    </array>
+    <array name="fragrance_types_tips">
+        <item>提神、愉悦</item>
+        <item>内敛、淡雅</item>
+        <item>清新、⾃然</item>
+        <item>愉悦、积极</item>
+        <item>减压、放松</item>
+        <item>休闲、享乐</item>
+        <item>舒爽、提神</item>
+        <item>愉悦、活力</item>
+        <item>沉稳、笃定</item>
+        <item>放松、减压</item>
+        <item>优雅、自信</item>
+        <item>舒心、平静</item>
+        <item>舒心、平静</item>
+        <item>舒心、平静</item>
+        <item>舒心、平静</item>
+        <item>舒心、平静</item>
+    </array>
+    <array name="fridge_temperature_set">
+        <item>6℃</item>
+        <item>0℃</item>
+        <item>-6℃</item>
+    </array>
+    <array name="fridge_temperature_set_vui">
+        <item>六度</item>
+        <item>零度</item>
+        <item>负六度</item>
+    </array>
+    <array name="x_quick_side_bar_letters">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>#</item>
+    </array>
+</resources>

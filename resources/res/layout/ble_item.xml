@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XListSingle xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/list_device" android:layout_marginTop="16dp" app:list_single_left="@layout/ble_item_icon" app:list_single_text="冰箱 45:F4:67:A2:BC" style="@style/XList.Singe"/>

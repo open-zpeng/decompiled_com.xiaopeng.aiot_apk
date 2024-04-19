@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/content" style="@style/Fragrance.Detail">
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/view_bg" android:background="#1100ffff" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toTopOf="0" app:vuiMode="DISABLED"/>
+    <com.xiaopeng.xui.widget.XImageButton android:id="@+id/view_close" android:layout_margin="30dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toTopOf="0" app:vuiDisableHitEffect="true" app:vuiEnableViewVuiMode="true" app:vuiLabel="@string/vui_label_close_dialog" style="@style/XButton.Icon.Large.Close"/>
+    <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/x_font_number_05_size" android:textColor="@color/x_theme_text_01" android:gravity="center" android:id="@+id/view_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="48dp" android:text="智能香氛" android:layout_marginStart="200dp" android:layout_marginEnd="200dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0" app:vuiMode="DISABLED"/>
+</merge>

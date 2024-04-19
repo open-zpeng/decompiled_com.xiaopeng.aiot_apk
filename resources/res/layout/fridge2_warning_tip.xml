@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XTextView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/btn" android:text="@string/fridge_warning_e1" style="@style/Fridge2.Detail.Tip"/>

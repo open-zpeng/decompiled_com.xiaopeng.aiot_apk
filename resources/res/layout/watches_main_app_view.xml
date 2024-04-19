@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/content" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/x_font_title_01_size" android:textColor="@color/x_theme_text_01" android:id="@+id/watches_state" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="未登录"/>
+    <com.xiaopeng.xui.widget.XButton android:id="@+id/watches_btn" android:text="登录" style="@style/XButton.Real.Mid.Positive"/>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/watches_info_lay" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/watches_btn_phone" android:text="打电话" style="@style/XButton.Real.Mid.Positive"/>
+        <com.xiaopeng.xui.widget.XButton android:id="@+id/watches_btn_navigation" android:text="导航" style="@style/XButton.Real.Mid.Positive"/>
+        <com.xiaopeng.xui.widget.XSwitch android:textSize="@dimen/x_font_title_03_size" android:textColor="@color/x_theme_text_01" android:id="@+id/watches_switch_location" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="位置"/>
+        <com.xiaopeng.xui.widget.XSwitch android:textSize="@dimen/x_font_title_03_size" android:textColor="@color/x_theme_text_01" android:id="@+id/watches_switch_refresh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="刷新"/>
+    </LinearLayout>
+    <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/x_font_title_03_size" android:textColor="@color/x_theme_text_01" android:id="@+id/watches_info" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="hello"/>
+</LinearLayout>

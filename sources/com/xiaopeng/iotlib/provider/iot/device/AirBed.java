@@ -1,0 +1,41 @@
+package com.xiaopeng.iotlib.provider.iot.device;
+/* loaded from: classes.dex */
+public class AirBed extends Base {
+    public static final String BED_PUMP_DEFAULT_VALUE = "000";
+    public static final String BED_PUMP_HARD_VALUE = "053";
+    public static final String BED_PUMP_SOFT_VALUE = "033";
+    public static final String BED_PUMP_STANDARD_VALUE = "043";
+    public static final String BED_UN_PUMP_ONE = "025";
+    public static final String BED_UN_PUMP_TWO = "050";
+    public static final String DEVICE_TYPE = "XPeng-airbed";
+    public static final int ERROR_CURRENT_HIGH = 16;
+    public static final int ERROR_CURRENT_LOW = 8;
+    public static final int ERROR_PRESSURE_NOT_READY_WHEN_PUMP = 1;
+    public static final int ERROR_PRESSURE_NOT_READY_WHEN_UN_PUMP = 2;
+    public static final int ERROR_PRESSURE_READY_WORK_TIME_SHORT = 4;
+    public static final String PROP_BED_HARDNESS_DOWN = "bedHardnessDown";
+    public static final String PROP_BED_HARDNESS_LEVEL = "hardnessLevel";
+    public static final String PROP_BED_HARDNESS_SET = "hardnessSet";
+    public static final String PROP_BED_HARDNESS_UP = "bedHardnessUp";
+    public static final String PROP_BED_HARDWARE_STATUS = "bedHardware";
+    public static final String PROP_BED_LEAST_WORK_TIME = "leastWorkTime";
+    public static final String PROP_BED_PRESSURE = "pressure";
+    public static final String PROP_BED_PUMP = "bedPump";
+    public static final String PROP_BED_PUMP_STATUS = "bedPumpStat";
+    public static final String PROP_BED_UN_PUMP = "bedUnPump";
+    public static final String PROP_BED_WORK_CURRENT = "workCurrent";
+    public static final String PROP_BED_WORK_TIME = "workedTime";
+    public static final String PROP_STOP_COMMAND = "XpStopCmd";
+    public static final String VAL_BED_PUMP_END = "03";
+    public static final String VAL_BED_PUMP_FULL = "04";
+    public static final String VAL_BED_PUMP_STARTED = "02";
+    public static final String VAL_BED_PUMP_WAIT = "01";
+    public static final String VAL_BED_UN_PUMP_END = "07";
+    public static final String VAL_BED_UN_PUMP_NONE = "08";
+    public static final String VAL_BED_UN_PUMP_STARTED = "06";
+    public static final String VAL_BED_UN_PUMP_WAIT = "05";
+    public static final String VAL_BED_WORK_STATUS_HARDNESS_ADJUST = "3";
+    public static final String VAL_BED_WORK_STATUS_IDLE = "0";
+    public static final String VAL_BED_WORK_STATUS_PUMPING = "1";
+    public static final String VAL_BED_WORK_STATUS_UN_PUMPING = "2";
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" style="@style/ChildSeat.Group">
+    <com.xiaopeng.xui.widget.XTextView style="@style/ChildSeat.Tips"/>
+    <com.xiaopeng.xui.widget.XListTwo android:id="@+id/childseat_list_deviceinfo" android:layout_marginTop="45dp" android:layout_marginBottom="133dp" app:list_two_left="@layout/x_list_action_button" app:list_two_text="@string/childseat_ble_title" app:list_two_text_sub="@string/childseat_ble_close_sub" style="@style/XList.Two"/>
+</LinearLayout>
